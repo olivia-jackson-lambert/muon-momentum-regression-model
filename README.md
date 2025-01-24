@@ -1,4 +1,4 @@
-# Prediciting Muon Track Momentum Resolution as a Function of Momentum with Regression Modeling
+# Predicting Muon Track Momentum Resolution as a Function of Momentum with Regression Modeling
 
 Scikit-learn regression models are applied to predict the track momentum resolution of muons as a function of momentum in particle detectors.
 
