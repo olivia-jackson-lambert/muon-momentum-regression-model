@@ -1,4 +1,4 @@
-# Prediciting Muon Track Momentum Resolution as a Function of Momentum with Regression
+# Prediciting Muon Track Momentum Resolution as a Function of Momentum with Regression Modeling
 
 ### Distributions of Momentum and Transverse Momentum
 <p align="center">
